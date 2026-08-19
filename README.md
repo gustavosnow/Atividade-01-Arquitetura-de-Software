@@ -28,3 +28,14 @@ Criação de fronteiras explícitas (RepositorioDados e ServicoNotificacao) para
 **2.2 Injeção de Dependência (DI):**
 - Justificativa:
 Aplicação prática da Inversão de Controle (IoC) ao fornecer as dependências externamente via construtor (constructor), eliminando o uso do operador new dentro da regra de negócio e permitindo a substituição transparente de tecnologias.
+
+---
+
+### 3. Como Executar o Projeto
+
+```bash
+# Instalar dependências
+npm install
+
+# Compilar e executar o código refatorado
+npm start
