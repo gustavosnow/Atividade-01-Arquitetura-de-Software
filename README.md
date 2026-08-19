@@ -1,7 +1,9 @@
-Atividade Prática: Refatoração de Arquitetura de Software
-Aluno(a): Gustavo Neves Coelho
-Matrícula: 20240022476
-Disciplina: Arquitetura de Software - Prof. Jacqueline Teixeira
+# Atividade Prática: Refatoração de Arquitetura de Software
+**Aluno(a):** Gustavo Neves Coelho  
+**Matrícula:** 20240022476  
+**Disciplina:** Arquitetura de Software - Prof. Jacqueline Teixeira  
+
+---
 
 1. Análise do Código Legado e Violações Encontradas
 No código original fornecido, observamos os seguintes problemas estruturais:
